@@ -1,0 +1,10 @@
+CMakeFiles
+Testing
+.vscode
+.git
+*.cmake
+*.tcl
+**/Makefile
+
+bin
+out
