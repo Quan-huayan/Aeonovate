@@ -6,7 +6,7 @@ set(CMAKE_BUILD_PARALLEL_LEVEL 24)
 
 # 指定 C++ 版本
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_STANDARD 20) # C++20：启用Concepts.
+set(CMAKE_CXX_STANDARD 20) # C++20：启用Concepts, 但不使用module.
 
 # Project 依赖的一些目录
 set(PROJECT_EXTERNAL_DIR ${PROJECT_SOURCE_DIR}/external)

@@ -1,5 +1,9 @@
 #include <SDL3/SDL.h>
+#include "base.hpp"
 
-void say_hello(){
-    SDL_Log("Hello,World!");
+namespace Anov
+{
+    void say_hello(){
+        SDL_Log("Hello,World!");
+    }
 }

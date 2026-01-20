@@ -1,6 +1,7 @@
+//core.hpp
+
 #pragma once
 
 namespace Anov
 {
-    void say_hello();
 }

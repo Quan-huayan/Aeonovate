@@ -3,6 +3,6 @@
 
 int main()
 {
-    say_hello();
+    Anov::say_hello();
     return 0;
 }
